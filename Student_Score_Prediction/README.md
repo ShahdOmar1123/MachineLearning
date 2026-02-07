@@ -15,5 +15,6 @@ Visualize predictions and evaluate model performance
 Evaluation metrics
 
 Try polynomial regression and compare performance
+
 Try experimenting with different feature combinations (e.g., removing or adding features like sleep, participation, etc.)
 
